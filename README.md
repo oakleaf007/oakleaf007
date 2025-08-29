@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning
+💻 Learning Web Development | 🌱 Exploring HTML, CSS & JavaScript | 🚀 Building projects and growing every day
+
 
 
 ## 🌐 Socials:
