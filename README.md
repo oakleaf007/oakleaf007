@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Learning Web Development | 🌱 Exploring HTML, CSS & JavaScript | 🚀 Building projects and growing every day
+💻 Web Developer | 🌱 Exploring different stuff | 🚀 Building projects and growing every day
 
 
 
