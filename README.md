@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Web Developer | 🌱 Exploring different stuff | 🚀 Building projects and growing every day
+💻 Web Developer | 🧊 3D Artist(Modelling) 
 
 
 
