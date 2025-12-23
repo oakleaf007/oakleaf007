@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Web Developer | Node.js, Express.js, MongoDB | 🧊 3D Artist(Modelling) 
+💻 Web Developer | Node.js | Express.js | 🧊 3D Artist(Modelling) 
 
 
 
