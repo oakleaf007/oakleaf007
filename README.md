@@ -2,7 +2,7 @@
 Backend-focused Full Stack Developer specializing in React, Node.js and scalable API design.
 
 # Stack:
-Node.js | Express.js | React | SQL | MongoDB | 3D Artist(Modelling) 
+Node.js | Express.js | React | SQL | MongoDB | Blender 3D
 
 
 
